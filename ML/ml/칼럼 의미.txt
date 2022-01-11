@@ -1,0 +1,33 @@
+long 경도
+lat 위도
+gu 소속 구 이름
+소재지면적 매장의 면적
+near_cafe 200m내에 있는 카페의 수
+near_bus 200m 내에 있는 버스 정거장 수
+near_bus_commute 200m 내에 있는 버스 정거장 중 출근 목적으로 이용하는 정거장의 수
+near_bus_transfer 200m 내에 있는 버스 정거장 중 환승 목적으로 이용하는 정거장의 수
+near_bus_many 200m 내에 있는 버스 정거장 중 하루평균 이용량 상위 75%인 정거장의 수
+near_subway100 100m내에 있는 지하철역의 수
+near_subway600 600m내에 있는 지하철역의 수
+near_subway_commute 600m내에 있는 지하철역 중 출근 목적으로 이용하는 지하철 역의 수
+near_subway_transfer 600m내에 있는 지하철역 중 주로 환승목적으로 이용하는 지하철 역의 수
+near_subway_many 600m내에 있는 지하철역 중 하루평균 이용량 상위 75%인 지하철 역의 수
+gu_pop 소속 구 총 인구수
+gu_work 소속 구의 근로자 수
+gu_rate_2030 소속 구의 인구중 20~30대 인구가 차지하는 비율
+gu_rate_405060 소속 구의 인구중 40~60대 인구가 차지하는 비율
+gu_density 소속 구의 인구밀도
+near_culture 1km 이내의 문화시설(공원, 대학, 공연장 등) 수
+area_cafe 소속 상권의 카페 수
+area_store 소속 상권의 유사 업종 가게수
+area_avgTake 소속 상권의 평균매출액
+area_avgCustomer 소속 상권의 평균 유동인구수
+area_count 250m 내 존재하는 상권의 수 (상권밀집도)
+저가 1 or 0
+고가 1 or 0
+기타 1 or 0
+발달상권 1 or 0
+골목상권 1 or 0
+기타상권 1 or 0
+무소속 1 or 0
+target 성공1 실패0
